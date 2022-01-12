@@ -1,0 +1,31 @@
+{
+  "name": "doittask",
+  "version": "1.0.0",
+  "description": "Proyecto doittask con Node y MVC",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arteadonis/doittask.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "javascript",
+    "MVC"
+  ],
+  "author": "Adonis Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arteadonis/doittask/issues"
+  },
+  "homepage": "https://github.com/arteadonis/doittask#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
